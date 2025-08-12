@@ -1,4 +1,4 @@
-export default[
+export default [
   {
     "_id": "123",
     "username": "iron_man",
@@ -124,5 +124,19 @@ export default[
     "section": "S101",
     "lastActivity": "1852-11-27",
     "totalActivity": "21:32:43"
+  },
+  {
+    "_id": "901",
+    "username": "wizard_grey",
+    "password": "gandalf123",
+    "firstName": "Gandalf",
+    "lastName": "Grey",
+    "email": "gandalf@middleearth.com",
+    "dob": "1000-01-01",
+    "role": "FACULTY",
+    "loginId": "001234570S",
+    "section": "S102",
+    "lastActivity": "2020-12-03",
+    "totalActivity": "33:44:55"
   }
 ]
